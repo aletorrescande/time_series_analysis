@@ -10,10 +10,10 @@ The Jupyter Notebook contains:
 4) A plot of a forecast of the company's future revenue.
 
 The libraries and dependencies used include:
-Pystan
-Prophet
-Hvplot
-Holoviews
-Pandas
-Datetime
-Matplotlib
+- Pystan
+- Prophet
+- Hvplot
+- Holoviews
+- Pandas
+- Datetime
+- Matplotlib
