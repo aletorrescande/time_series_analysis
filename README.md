@@ -17,3 +17,5 @@ The libraries and dependencies used include:
 - Pandas
 - Datetime
 - Matplotlib
+
+The jupyter Notebook was completed using Google Colab, if not using google colab read csv using Path from pathlib
